@@ -7,6 +7,5 @@ This is a temporary script file.
 
 print("Hello, World!!!")
 
-x=10
+print("No more math")
 
-print(x*2) 
